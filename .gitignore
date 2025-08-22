@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Local data and site output
+data/
+site/
+
+# Portable PowerShell and other tools
+tools/pwsh/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
